@@ -47,8 +47,8 @@ a {
   color: #404bbf;
 }
 
-address{
-    font-style: normal;
+address {
+  font-style: normal;
 }
 .address {
   font-weight: 400;
@@ -82,16 +82,15 @@ address{
   font-family: inherit;
   color: #fff;
   font-weight: 500;
+  line-height: 1.5;
   letter-spacing: 0.04em;
+  cursor: pointer;
 }
-.order-service-button:hover{
-    cursor: pointer;
-}
+
 .order-service button:hover,
 .order-service button:focus {
   background: #404bbf;
 }
-
 
 /* advantages */
 .advantages-title {
@@ -120,8 +119,6 @@ address{
 }
 .our-team-item {
   background: #fff;
-  
-  
 }
 /* .our-team li:hover,
 .our-team li:focus {
@@ -157,9 +154,10 @@ address{
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.footer p {
+.footer-p {
   color: #f4f4fd;
   font-weight: 400;
   line-height: 1.17;
-  letter-spacing: 0.03em;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
